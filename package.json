@@ -1,0 +1,35 @@
+{
+  "name": "polymarketwidget",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^3.16.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@heroicons/react": "^2.2.0",
+    "@visx/responsive": "^3.12.0",
+    "@visx/visx": "^3.12.0",
+    "axios": "^1.8.4",
+    "d3-array": "^3.2.4",
+    "d3-time-format": "^4.1.0",
+    "framer-motion": "^12.7.4",
+    "lucide-react": "^0.488.0",
+    "next": "^14.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
